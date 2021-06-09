@@ -1,0 +1,6 @@
+hash(key) --> O(1) time and space
+put(key, value) --> O(N) time, always O(1) space (no extra space is used)
+get(key) --> O(N) time worst case and O(1) average case, O(1) space
+delete(key) --> O(N) time, always O(1) space (no extra space is used)
+calcLoadFactor() --> O(1) time and space
+print() --> O(N) time
